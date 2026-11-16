@@ -1,5 +1,5 @@
 // 部署 Apps Script 後,把「網頁應用程式網址」貼在這裡(以 /exec 結尾)
-const API_URL = 'https://script.google.com/macros/s/貼上你的部署ID/exec';
+const API_URL = 'https://script.google.com/macros/s/AKfycbyWT3E5bmMrKjKeC-xeg9x67oxq6hN0wFGK-oPOyXk5ifPu2J6aNO_4oMyzhjX8IGDb/exec';
 
 // 前端 → 後端 的共用呼叫函式
 async function api(action, data = {}) {
